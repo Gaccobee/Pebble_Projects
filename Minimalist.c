@@ -1,3 +1,5 @@
+// First Pebble project
+
 #include <pebble.h>
 
 static Window *s_main_window;
